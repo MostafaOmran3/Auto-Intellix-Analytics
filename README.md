@@ -1,6 +1,6 @@
 # AUTO-INTELLIX - Smart Car Maintenance Analytics System 🚗📊
 
-This repository contains all deliverables from my **Data Management Internship** project at *Jadara Solutions*.  
+This repository contains all deliverables from my **Data Management Internship** project at **Jadara Solutions**.  
 The project is focused on building a **Smart Car Maintenance Analytics System** for AUTO-INTELLIX, enabling better insights into service center performance, customer behavior, and operational efficiency.
 
 ---
